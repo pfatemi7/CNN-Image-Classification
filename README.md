@@ -68,7 +68,7 @@ Each is visualized with a **confusion matrix** for performance analysis.
 ---
 
 
-## 📝 Notes
+##  Notes
 
 - Input image size is `[28 x 28 x 2]`, meaning **2-channel images** (e.g., dual-modality or filtered input).
 
