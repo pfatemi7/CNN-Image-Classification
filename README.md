@@ -7,9 +7,8 @@ This project trains a **Convolutional Neural Network (CNN)** in MATLAB to classi
 ##  Project Structure
 
 ### Files:
-- `feature.mat` — 4D array containing input image data (`height x width x channels x samples`)
-- `label.mat` — Ground truth labels corresponding to the samples
-- `cnn_classification.m` — Main script for:
+
+- `classification.m` — Main script for:
   - Data loading and shuffling
   - Dataset splitting (train/val/test)
   - CNN design
