@@ -4,18 +4,6 @@ This project trains a **Convolutional Neural Network (CNN)** in MATLAB to classi
 
 ---
 
-##  Project Structure
-
-### Files:
-
-- `classification.m` — Main script for:
-  - Data loading and shuffling
-  - Dataset splitting (train/val/test)
-  - CNN design
-  - Training and evaluation
-
----
-
 ##  Requirements
 
 - MATLAB (tested with R2021b or later)
